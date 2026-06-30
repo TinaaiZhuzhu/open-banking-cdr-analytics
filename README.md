@@ -17,6 +17,7 @@ Dashboard Includes
 ✔ Data Holder Comparison
 
 ✔ KPI Cards
+<img width="1240" height="613" alt="image" src="https://github.com/user-attachments/assets/5dc2db25-d762-4315-94e4-1d43b1ab5303" />
 
 Business Outcome
 
