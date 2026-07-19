@@ -23,7 +23,7 @@ Dashboard Includes
 
 ✔ KPI Cards 
 
-![Executive dashboard for Open Banking CDR analytics displaying consent completion rate of 74.9%, drop-off funnel visualization, error reason analysis, data holder performance comparison, and KPI cards showing key metrics in a professional blue and green color scheme](images/executive_dashboard.png)
+![Executive Dashboard](images/executive_dashboard.png)
 Business Outcome
 
 Identified major consent abandonment reasons and visualised customer journey performance to support product improvements.
@@ -189,8 +189,7 @@ This improves dashboard usability and storytelling.
 ---
 ### Dashboard Preview
 
-![Open Banking ADR Performance Dashboard showing three KPI cards at the top: 1433 Total Consents, 74.9% Overall Completion Rate, and 91.6% Overall OTP Success Rate. Below are two bar charts comparing ADR providers - Consent Completion Rate by ADR ranging from 81.08% (Adatree) to 57.47% (Ezidox), and OTP Successful Rate by ADR ranging from 95.59% (NextGen) to 80.46% (Ezidox). A scatter plot at the bottom shows the relationship between OTP Successful Rate (x-axis) and Consent Completion Rate (y-axis) for all ADR providers including Adatree, Basiq, Cuscal, Ezidox, Finder, Frollo, illion, Intuit, NextGen, Regional Australia Bank, and Yadiee. The dashboard uses green bar charts and colored dots representing each provider, demonstrating that high OTP success rates do not always correlate with high consent completion rates](images/Open Banking ADR Performance Dashboard.png)
-
+<img src="images/Open Banking ADR Performance Dashboard.png" width="900">
 ### 🚀 Future Improvements
 
 Planned enhancements include:
