@@ -28,7 +28,7 @@ ORDER BY journey_count DESC;
 -- For CBA, identify the most common reasons why consent journeys were abandoned.
 
 SELECT error_reason, COUNT(*) AS journey_count,
-Round(COUNT(*) * 100.0 / SUM(COUNT(*)) OVER (), 2) AS percentage
+Round(COUNT(*) / SUM(COUNT(*)) OVER (), 2) AS percentage
 FROM consent_journey
 WHERE data_holder = 'CBA' AND consent_status = 'Abandoned'
 GROUP BY error_reason
